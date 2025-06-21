@@ -1,8 +1,19 @@
 
-# 👋 Welcome, I’m `silentarchitect-ops` — The Silent Builder of Systems  
-💼 GCP Data Engineer | 🏛️ Ex-Amex (GFCC/SLPM) | 🧱 Hive → BigQuery Migration | ⚙️ Terraform | 🚀 OSS RAG + Agent Architect
+<!-- Refined Header Block -->
 
-> *"Power isn’t in the tools. It’s in the architecture behind them."*
+<h1 style="font-family: 'Courier New', monospace; font-size: 26px;">
+  👋 Welcome, I’m <code>silentarchitect-ops</code> — The Silent Builder of Systems
+</h1>
+
+<p style="font-size: 18px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+  💼 <strong>GCP Data Engineer</strong> &nbsp;|&nbsp; 🏛️ Ex-Amex (<code>GFCC / SLPM</code>) &nbsp;|&nbsp; 🧱 Hive → BigQuery Migration  
+  <br>
+  ⚙️ Terraform&nbsp;&nbsp;|&nbsp;&nbsp;🚀 OSS RAG + Agent Architect 🪃
+</p>
+
+<blockquote style="font-size: 16px; color: #555; font-style: italic;">
+  “Power isn’t in the tools. It’s in the architecture behind them.”
+</blockquote>
 
 ---
 
@@ -20,16 +31,28 @@ In my tech-verse:
 
 ## ⚙️ Tech Stack Power Levels (Anime Style)
 
-| 🧰 Tool / Framework         | 🔥 Usage Level | ⭐ Power Tier | 🗒️ Notes |
-|----------------------------|----------------|--------------|----------|
-| `BigQuery SQL`             | 🔥🔥🔥🔥🔥       | ⭐⭐⭐⭐⭐        | Primary Blade – precise, scalable |
-| `Terraform`                | 🔥🔥🔥🔥         | ⭐⭐⭐⭐☆        | IaC for multicloud harmony |
-| `Cloud Composer (Airflow)`| 🔥🔥🔥🔥         | ⭐⭐⭐⭐☆        | DAGs of Destiny |
-| `LangChain / Agents`       | 🔥🔥🔥           | ⭐⭐⭐☆☆        | Ongoing Agent Rebuild |
-| `Vertex AI / LLM Orchestration` | 🔥🔥     | ⭐⭐☆☆☆        | Upgrading in hidden lab |
-| `DBT`                      | 🔥🔥🔥           | ⭐⭐⭐☆☆        | For tactical transformations |
-| `PySpark`                  | 🔥🔥🔥           | ⭐⭐⭐☆☆        | Legacy skills from Cornerstone Arc |
-| `JMeter (PerfOps)`         | 🔥🔥🔥           | ⭐⭐⭐☆☆        | Load-testing like a Shinobi |
+| 🧰 Tool / Framework             | 🔥 Usage Level | ⭐ Power Tier | 🗒️ Notes |
+|--------------------------------|----------------|--------------|----------|
+| `BigQuery SQL`                 | 🔥🔥🔥🔥🔥       | ⭐⭐⭐⭐⭐        | Primary Blade – precise, scalable |
+| `Terraform`                    | 🔥🔥🔥🔥         | ⭐⭐⭐⭐☆        | IaC for multicloud harmony |
+| `Cloud Composer (Airflow)`    | 🔥🔥🔥🔥         | ⭐⭐⭐⭐☆        | DAGs of Destiny |
+| `LangChain / Agents`           | 🔥🔥🔥           | ⭐⭐⭐☆☆        | Ongoing Agent Rebuild |
+| `Vertex AI / LLM Orchestration`| 🔥🔥             | ⭐⭐☆☆☆        | Upgrading in hidden lab |
+| `PySpark`                      | 🔥🔥🔥           | ⭐⭐⭐☆☆        | Legacy skills from Cornerstone Arc |
+| `DBT`                          | 🔥🔥🔥           | ⭐⭐⭐☆☆        | For tactical transformations |
+| `JMeter (PerfOps)`             | 🔥🔥🔥           | ⭐⭐⭐☆☆        | Load-testing like a Shinobi |
+| `HiveQL`                       | 🔥🔥🔥           | ⭐⭐⭐☆☆        | The origin sword – still sharp |
+| `Kafka`                        | 🔥🔥🔥           | ⭐⭐⭐☆☆        | Real-time summoning circle |
+| `GCS / Cloud Storage`          | 🔥🔥🔥🔥         | ⭐⭐⭐⭐☆        | Sacred vault of all artifacts |
+| `Cloud Pub/Sub`                | 🔥🔥🔥           | ⭐⭐⭐☆☆        | Event spellcaster – async magic |
+| `GitHub Actions`               | 🔥🔥🔥🔥         | ⭐⭐⭐⭐☆        | CI/CD enchantments with precision |
+| `Docker`                       | 🔥🔥🔥🔥         | ⭐⭐⭐⭐☆        | Summoning portable environments |
+| `Kubernetes (GKE)`             | 🔥🔥🔥           | ⭐⭐⭐☆☆        | Container control arts |
+| `PostgreSQL`                   | 🔥🔥🔥           | ⭐⭐⭐☆☆        | Reliable spellbook of relations |
+| `Python`                       | 🔥🔥🔥🔥🔥       | ⭐⭐⭐⭐⭐        | Universal scripting technique |
+| `Java`                         | 🔥🔥🔥           | ⭐⭐⭐☆☆        | Old yet powerful battle language |
+| `Bash / Shell Scripting`       | 🔥🔥🔥🔥         | ⭐⭐⭐⭐☆        | Quick-strike terminal rituals |
+| `OpenAI / API Usage`           | 🔥🔥🔥           | ⭐⭐⭐☆☆        | Agent interface for intelligence |
 
 ---
 
@@ -50,13 +73,49 @@ Building **Open Source AgentOps + RAG Platforms** using LLM orchestration and GC
 ---
 
 ## 🛠️ Skills Breakdown
-🌐 Cloud: GCP (BigQuery, Composer, IAM, GCS, Vertex AI, Pub/Sub)
-📦 Data: HiveQL, BigQuery SQL, PySpark, DBT, Dataflow
-🧠 AI: LangChain, VectorDBs (FAISS, Chroma), RAG stacks, LLM Agents
-⚙️ Infra: Terraform, Docker, Kubernetes, GKE, GitHub Actions
-🔐 Compliance: GFCC/SLPM, Bridger Cadence, SVP/PEP AML
 
+### ☁️ Cloud Platforms
+- **GCP**: BigQuery, Cloud Composer (Airflow), Vertex AI, GCS, IAM, Pub/Sub, Cloud Functions, Cloud Run  
+- **AWS**: S3, Lambda, Glue, Athena, Redshift, IAM, CloudWatch, ECR, Step Functions  
+- **Azure**: Azure Data Factory, Azure Synapse, Azure Blob Storage, Azure ML, Key Vault, Azure DevOps
 
+---
+
+### 📊 Data Engineering & Analytics
+- **Languages**: HiveQL, BigQuery SQL, PySpark, SQL, Python  
+- **Tools**: DBT, Dataflow, Dataproc, Airflow, Jupyter Notebooks  
+- **Performance Testing**: Apache JMeter, Query Validator Frameworks (QCPA), Benchmarks
+
+---
+
+### 🧠 AI / ML / RAG Systems
+- **Frameworks**: LangChain, LlamaIndex, Haystack  
+- **Vector Databases**: FAISS, Chroma, Weaviate  
+- **ModelOps**: Vertex AI, OpenAI APIs, Hugging Face Transformers  
+- **RAG Systems**: Retrieval-Augmented Generation over Video, Voice, Structured Data  
+- **Agents**: Multi-agent planning, Memory injection, Tool calling
+
+---
+
+### ⚙️ DevOps & Infrastructure
+- **IaC**: Terraform, AWS CloudFormation  
+- **Containers**: Docker, Kubernetes (GKE, EKS), Podman  
+- **CI/CD**: GitHub Actions, Azure DevOps Pipelines, GitOps  
+- **Monitoring**: Stackdriver, CloudWatch, OpenTelemetry
+
+---
+
+### 🔐 Compliance & Governance
+- **Frameworks**: GFCC (Global Financial Crime Compliance), SLPM (Second Line Platform Management)  
+- **Data Lineage**: Bridger Cadence, SVP/PEP AML Feed Integration  
+- **Security**: IAM (GCP, AWS, Azure), Role-Based Access Control, Audit Pipelines
+
+---
+
+### 🧙 Code & Automation Magic
+- **Scripting**: Bash, Shell, Python Automation  
+- **Version Control**: Git, GitHub, GitLab  
+- **API Crafting**: REST, GraphQL, OpenAI Tool Use  
 ---
 
 ## 📚 Chapter: Origin Story
