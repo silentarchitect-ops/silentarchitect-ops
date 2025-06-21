@@ -1,23 +1,33 @@
+### 👤 `silentarchitect-ops`  
+#### 🛡️ Silent Builder of Intelligent Systems | 💼 GCP Data Engineer | 🏛️ Ex-Amex (GFCC/SLPM)
 
-<!-- Refined Header Block -->
-
-<h1 style="font-family: 'Courier New', monospace; font-size: 26px;">
-  👋 Welcome, I’m <code>silentarchitect-ops</code> — The Silent Builder of Systems
-</h1>
-
-<p style="font-size: 18px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
-  💼 <strong>GCP Data Engineer</strong> &nbsp;|&nbsp; 🏛️ Ex-Amex (<code>GFCC / SLPM</code>) &nbsp;|&nbsp; 🧱 Hive → BigQuery Migration  
-  <br>
-  ⚙️ Terraform&nbsp;&nbsp;|&nbsp;&nbsp;🚀 OSS RAG + Agent Architect 🪃
-</p>
-
-<blockquote style="font-size: 16px; color: #555; font-style: italic;">
-  “Power isn’t in the tools. It’s in the architecture behind them.”
-</blockquote>
+> *"I don’t make noise. I make systems that last."*  
+> *– The Architect, DataVerse Arc: RAG Reformation Saga*
 
 ---
 
-## 🧠 Who Am I?
+### 🌀 **My Character Build:**
+- **Name**: Ravi Kumar Singh  
+- **Class**: 👤 `Silent Architect`
+- **Arc**: `"DataOps | CloudOps | AIOps"`  
+- **Origin Guild**: 🏛️ *Amex - GFCC/SLPM Division*  
+- **Main Questline**: 🧱 *Hive → BigQuery Migration | 20TB+ Compliance Loadouts*  
+- **Weapons**: ⚙️ Terraform Blade, 🧠 AI-Enhanced DAGs, 🪃 OSS RAG Agents  
+- **Alignment**: 🧬 Open Source | ☁️ Remote Native | 📜 Compliance Loyalist  
+
+---
+
+### ⚔️ **Battlefield Specialties**
+
+| Power Domain | Skill Description |
+|--------------|-------------------|
+| ☁️ **GCP Mastery** | BigQuery, Cloud Composer, Pub/Sub, GCS, IAM, Vertex AI |
+| 🧠 **AI/ML Realm** | RAG Architectures, AgentOps, LangChain, VectorDB, Prompt Fusion |
+| 📊 **Data Engineering** | HiveQL, BigQuery SQL, PySpark, DBT, Dataflow, Airflow |
+| 🔐 **Compliance Magic** | GFCC-SLPM, KYC/AML Loadouts, Bridger Cadence, PEP/SVP AML Feeds |
+| ⚙️ **Infra Spells** | Terraform, Kubernetes, Docker, GKE, GitOps & CI/CD Summons |
+
+### 🧠 Who Am I?
 
 I’m Ravi Kumar Singh — known here as **`silentarchitect-ops`**, a cloud-native systems builder, data migration specialist, and OSS Agent system creator.
 
@@ -29,7 +39,7 @@ In my tech-verse:
 
 ---
 
-## ⚙️ Tech Stack Power Levels (Anime Style)
+### ⚙️ Tech Stack Power Levels (Anime Style)
 
 | 🧰 Tool / Framework             | 🔥 Usage Level | ⭐ Power Tier | 🗒️ Notes |
 |--------------------------------|----------------|--------------|----------|
@@ -56,7 +66,7 @@ In my tech-verse:
 
 ---
 
-## 🔮 Arc 2025: OSS Agent RAG Projects
+### 🔮 Arc 2025: OSS Agent RAG Projects
 
 Building **Open Source AgentOps + RAG Platforms** using LLM orchestration and GCP serverless.
 
@@ -72,7 +82,7 @@ Building **Open Source AgentOps + RAG Platforms** using LLM orchestration and GC
 
 ---
 
-## 🛠️ Skills Breakdown
+### 🛠️ Skills Breakdown
 
 ### ☁️ Cloud Platforms
 - **GCP**: BigQuery, Cloud Composer (Airflow), Vertex AI, GCS, IAM, Pub/Sub, Cloud Functions, Cloud Run  
@@ -118,7 +128,7 @@ Building **Open Source AgentOps + RAG Platforms** using LLM orchestration and GC
 - **API Crafting**: REST, GraphQL, OpenAI Tool Use  
 ---
 
-## 📚 Chapter: Origin Story
+### 📚 Chapter: Origin Story
 
 > Trained in the **realms of data, AI, and models**, I began my journey designing systems that think before they act.  
 > Later, I migrated 20TB+ of regulatory workloads into **Lumi (GCP)**, ensuring airtight **GFCC/SLPM** compliance across financial systems.  
@@ -126,7 +136,7 @@ Building **Open Source AgentOps + RAG Platforms** using LLM orchestration and GC
 
 ---
 
-## ✨ Philosophy of a Silent Architect
+### ✨ Philosophy of a Silent Architect
 🌱 Observe quietly.
 ⚒️ Build with intent.
 🧘 Scale with simplicity.
@@ -136,7 +146,7 @@ Building **Open Source AgentOps + RAG Platforms** using LLM orchestration and GC
 
 ---
 
-## 🔗 Connect with the Architect
+### 🔗 Connect with the Architect
 
 | 🌐 Platform | Link |
 |------------|------|
@@ -146,7 +156,7 @@ Building **Open Source AgentOps + RAG Platforms** using LLM orchestration and GC
 
 ---
 
-## 🧪 Secret Weapon: OSS Stealth Mode Enabled  
+### 🧪 Secret Weapon: OSS Stealth Mode Enabled  
 > Open-source is my dojo. I don’t pitch — I ship.  
 > Follow for silent, powerful drops 🪃
 
