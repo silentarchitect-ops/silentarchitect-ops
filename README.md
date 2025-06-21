@@ -1,5 +1,3 @@
-<!-- Banner -->
-<img src="./banner.png" alt="silentarchitect-ops banner" style="width:100%; border-radius: 12px;" />
 
 # 👋 Welcome, I’m `silentarchitect-ops` — The Silent Builder of Systems  
 💼 GCP Data Engineer | 🏛️ Ex-Amex (GFCC/SLPM) | 🧱 Hive → BigQuery Migration | ⚙️ Terraform | 🚀 OSS RAG + Agent Architect
@@ -63,9 +61,9 @@ Building **Open Source AgentOps + RAG Platforms** using LLM orchestration and GC
 
 ## 📚 Chapter: Origin Story
 
-> Started as a Spark/Hive developer in the **Cornerstone Realm**.  
-> Migrated 20TB+ of regulatory data to Lumi (GCP), ensuring full **GFCC/SLPM** compliance.  
-> Now building OSS Agent systems for the next-gen AI world — from the shadows.
+> Trained in the **realms of data, AI, and models**, I began my journey designing systems that think before they act.  
+> Later, I migrated 20TB+ of regulatory workloads into **Lumi (GCP)**, ensuring airtight **GFCC/SLPM** compliance across financial systems.  
+> Now I operate in stealth, building OSS Agent Systems for the next-gen AI era — from the shadows.
 
 ---
 
